@@ -16,7 +16,7 @@ I am currently studying to be an engineer in computer science at Espol - Ecuador
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,md,mysql,py,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,java,js,md,mysql,py,&perline=14" />
   </a>
 </p>
 
