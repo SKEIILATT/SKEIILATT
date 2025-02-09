@@ -2,9 +2,9 @@
 <h3 align="center">A programming enthusiast and future full stack developer. 
 I am currently studying to be an engineer in computer science at Espol - Ecuador.</h3>
 
-- 🌱 I’m currently learning **React and Angular**
+- :clock930: I’m currently learning **React and Angular**
 
-- 🔭 I’m looking to collaborate on **front-end and back-end projects**
+- :white_check_mark: I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **javimacias619@gmail.com**
 
@@ -20,7 +20,7 @@ I am currently studying to be an engineer in computer science at Espol - Ecuador
   </a>
 </p>
 <div id="user-stats-toc">
-  <ul align="center">
+  <ul align="center" list-style-type: none;>
     <summary><h2 style="display: inline-block"> Statistics :100: </h2></summary>
   </ul>
 </div>
