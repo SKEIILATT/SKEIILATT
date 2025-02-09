@@ -20,7 +20,7 @@ I am currently studying to be an engineer in computer science at Espol - Ecuador
   </a>
 </p>
 <div id="user-stats-toc">
-  <ul align="center" list-style-type: none;>
+  <ul style="list-style-type: none; text-align: center;">
     <summary><h2 style="display: inline-block"> Statistics :100: </h2></summary>
   </ul>
 </div>
