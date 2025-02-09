@@ -19,8 +19,14 @@ I am currently studying to be an engineer in computer science at Espol - Ecuador
     <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,java,js,md,mysql,py,&perline=14" />
   </a>
 </p>
-
-
+<div id="user-stats-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> Statistics👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+![SKEIILATT's Stats](https://github-readme-stats.vercel.app/api?username=SKEIILATT&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+![SKEIILATT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SKEIILATT&theme=monokai&hide_border=false)
+![SKEIILATT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SKEIILATT&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 ------
 
 Last Edited on: 08/02/2025
