@@ -9,7 +9,7 @@ I am currently studying to be an engineer in computer science at Espol - Ecuador
 - 📫 How to reach me: **javimacias619@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java, github,figma,py,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 ------
