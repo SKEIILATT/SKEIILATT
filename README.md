@@ -8,8 +8,17 @@ I am currently studying to be an engineer in computer science at Espol - Ecuador
 
 - 📫 How to reach me: **javimacias619@gmail.com**
 
-<h3 align="center">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,md,mysql,py,vscode,&perline=14" />
+  </a>
+</p>
 
 
 ------
