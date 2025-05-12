@@ -12,8 +12,8 @@ I am currently studying to be an engineer in computer science at Espol - Ecuador
 [PORTFOLIO](https://skeiilatt.github.io/Portfolio/)
 
 # MY PROJECTS
-[New Dashboards](https://skeiilatt.github.io/News-Dashboards/)
-[Unit Converter](https://skeiilatt.github.io/Unit_Converter/)
+[New Dashboards](https://skeiilatt.github.io/News-Dashboards/)  
+[Unit Converter](https://skeiilatt.github.io/Unit_Converter/)  
 [Dashboard_Business] (Python Script)
 
 
