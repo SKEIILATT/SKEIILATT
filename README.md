@@ -10,9 +10,11 @@ I am currently studying to be an engineer in computer science at Espol - Ecuador
 
 # MY PORTFOLIO
 [PORTFOLIO](https://skeiilatt.github.io/Portfolio/)
+To make my portfolio I made use of HTML, CSS and JavaScript, in this I show the different projects I have done so far.
 
 # MY PROJECTS
-[New Dashboards](https://skeiilatt.github.io/News-Dashboards/)  
+[New Dashboards](https://skeiilatt.github.io/News-Dashboards/) 
+
 [Unit Converter](https://skeiilatt.github.io/Unit_Converter/)  
 Dashboard_Business (Python Script)
 
