@@ -8,6 +8,15 @@ I am currently studying to be an engineer in computer science at Espol - Ecuador
 
 - 📫 How to reach me: **javimacias619@gmail.com**
 
+# MY PORTFOLIO
+[PORTFOLIO](https://skeiilatt.github.io/Portfolio/)
+
+# MY PROJECTS
+[New Dashboards](https://skeiilatt.github.io/News-Dashboards/)
+[Unit Converter](https://skeiilatt.github.io/Unit_Converter/)
+[Dashboard_Business] (Python Script)
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
