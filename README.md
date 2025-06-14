@@ -11,7 +11,7 @@ I am currently studying to be an engineer in computer science at Espol - Ecuador
 --- 
 
 ## My Portfolio 💼
-[PORTFOLIO](https://skeiilatt.github.io/Portfolio/) 
+[PORTFOLIO](https://skeiilatt.github.io/curriculum/) 
 I built my portfolio using **HTML, CSS**, and **JavaScript**. It showcases the different projects I have developed so far.
 
 ---
