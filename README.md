@@ -91,18 +91,8 @@ const javier = {
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKEIILATT&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKEIILATT&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages"/>
-</p>
+<img src="https://raw.githubusercontent.com/SKEIILATT/SKEIILATT/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKEIILATT&theme=tokyonight&hide_border=true" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SKEIILATT&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
 
 ---
 
@@ -116,7 +106,7 @@ const javier = {
   <a href="mailto:javimacias619@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="www.linkedin.com/in/javaguti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
