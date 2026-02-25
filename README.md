@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🧠 Javier Gutiérrez  
-### Cognitive Systems Engineer · Data & AI · Full-Stack Mentor
+### Data & AI · Full-Stack Mentor
 
 Transforming data into intelligent software and teaching others to build it.
 
