@@ -1,122 +1,123 @@
-<h1 align="center">Hi 👋, I'm Javier <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Full Stack Developer in Training | Computer Science Student at ESPOL</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://skeiilatt.github.io/curriculum/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:javimacias619@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/SKEIILATT">
-    <img src="https://img.shields.io/github/followers/SKEIILATT?label=Followers&style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
+# 🧠 Javier Gutiérrez  
+### Cognitive Systems Engineer · Data & AI · Full-Stack Mentor
+
+Transforming data into intelligent software and teaching others to build it.
+
+</div>
 
 ---
 
-## 🚀 About Me
-```javascript
-const javier = {
-    location: "Quito, Ecuador 🇪🇨",
-    education: "Computer Science Engineering @ ESPOL",
-    currentlyLearning: ["React", "Angular", "Node.js"],
-    lookingFor: "Front-End & Back-End collaboration opportunities",
-    funFact: "I turn coffee into code ☕️💻"
-};
-```
+# 🧩 About Me
 
-- 🎓 Computer Science Engineering student at **ESPOL - Ecuador**
-- 💻 Passionate about creating interactive and functional web applications
-- 🌱 Currently mastering **React** and **Angular** frameworks
-- 🤝 Open to collaborate on **full stack projects**
-- 📧 Reach me at: **javimacias619@gmail.com**
+I’m a Computer Science student and technical mentor specialized in **Data Science, AI-assisted systems, and Full-Stack development**.
+
+I design analytical software, build intelligent data tools, and guide developers in modern web technologies.
+
+- 🧠 Data-driven systems  
+- 🤖 AI-integrated applications  
+- 🌐 Full-stack engineering  
+- 🎓 Technical mentoring  
 
 ---
 
-## 🛠️ Tech Stack
+# 🧬 Technical Stack
 
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
+### 📊 Data & AI
+`Python` `Pandas` `NumPy` `EDA` `Power BI` `LangChain` `ChromaDB` `RAG` `LLMs`
 
-### Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
-</p>
+### 🌐 Full-Stack
+`React` `TypeScript` `JavaScript` `Tailwind CSS` `HTML` `CSS`
 
-### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,figma,vscode,md" />
-</p>
+### ⚙️ Backend
+`Flask` `Java` `Django` `MySQL` `Firebase`
+
+### 🛠 Engineering
+`Git` `GitHub` `SCRUM`
 
 ---
 
-## 💼 Featured Projects
+# 🚀 Selected Projects
 
-### 🌐 [Personal Portfolio](https://skeiilatt.github.io/curriculum/)
-> A responsive portfolio website showcasing my projects and skills
-- **Tech Stack:** HTML5, CSS3, JavaScript
-- **Features:** Responsive design, smooth animations, project showcase
-- **[View Live](https://skeiilatt.github.io/curriculum/)** | **[Source Code](https://github.com/SKEIILATT/curriculum)**
+## 🧠 RAG-EDU — AI Educational Analytics
+Intelligent platform combining dashboards and natural-language queries to analyze university dropout patterns using Retrieval-Augmented Generation.
 
-### 📰 [News Dashboard](https://skeiilatt.github.io/News-Dashboards/)
-> Dynamic news search engine powered by NewsAPI.org
-- **Tech Stack:** HTML, CSS, JavaScript, REST API
-- **Features:** Real-time news fetching, category filtering, responsive UI
-- **Highlights:** API integration, asynchronous JavaScript, data handling
-- **[View Live](https://skeiilatt.github.io/News-Dashboards/)** | **[Source Code](https://github.com/SKEIILATT/News-Dashboards)**
-
-### 🔄 [Unit Converter](https://skeiilatt.github.io/Unit_Converter/)
-> Multi-purpose unit conversion web application
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** 
-  - Length, temperature, weight, time conversions
-  - Speed, volume, area, and energy calculations
-  - Clean and intuitive interface
-- **[View Live](https://skeiilatt.github.io/Unit_Converter/)** | **[Source Code](https://github.com/SKEIILATT/Unit_Converter)**
-
-### 📊 Dashboard Business (Python)
-> Automated business intelligence tool for data visualization
-- **Tech Stack:** Python, MySQL, Pandas, Matplotlib, Tkinter
-- **Features:**
-  - Database integration for structured data management
-  - Automated report generation
-  - Interactive data visualization
-  - User-friendly GUI interface
-- **Use Case:** Business decision-making support through data analysis
+**Stack:** React · TypeScript · Recharts · Flask · Laravel · LangChain · ChromaDB · Ollama · Pandas · NumPy  
+🔗 https://github.com/SKEIILATT/RAG-EDU  
 
 ---
 
-## 📊 GitHub Statistics
+## ⚙️ Anagrama MASM — Low-Level Analyzer
+Assembly utility that determines whether two phrases are anagrams with accent normalization and colored terminal output.
 
-<img src="https://raw.githubusercontent.com/SKEIILATT/SKEIILATT/output/snake.svg" alt="Snake animation" />
-
-
----
-
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://skeiilatt.github.io/curriculum/">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="mailto:javimacias619@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="www.linkedin.com/in/javaguti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+**Stack:** MASM Assembly  
+🔗 https://github.com/SKEIILATT/proyecto-Anagrama  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SKEIILATT&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 🔎 Go Code Analyzer
+Web analyzer performing lexical, syntactic, and semantic analysis of Go programs.
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/SKEIILATT">SKEIILATT</a> | Last updated: January 2025</i>
-</p>
+**Stack:** Python · Flask · PLY · React · TypeScript  
+🔗 https://github.com/SKEIILATT/ProyectoAnalizador_Final  
+
+---
+
+## 🌐 TaxPro Ecuador
+Responsive landing page for professional tax advisory services.
+
+**Stack:** HTML · Tailwind · JavaScript  
+🔗 https://github.com/SKEIILATT/taxPro-LP  
+
+---
+
+# 🧑‍🏫 Mentoring & Teaching
+
+## 🧑‍💻 Full-Stack Development Mentor  
+**Coding Bootcamp — ESPOL**
+
+- Mentoring and technical reinforcement in **JavaScript and web development**
+- Design of didactic material, quizzes, and learning resources
+- Code review and project guidance for students
+
+---
+
+## 📊 Data Driven Decision Specialist Mentor  
+**ESPOL & MINTEL Bootcamps**
+
+Teaching EDA, dashboards, and applied data projects with industry practices.
+
+---
+
+# 🧪 Research
+
+**Geospatial Electrical Infrastructure Analysis — Ecuador**  
+Academic research on urban power outage patterns (2024-2025).
+
+---
+
+# 🎓 Education
+
+**B.Sc. Computer Science — ESPOL**  
+Guayaquil, Ecuador
+
+---
+
+# 🌐 Connect
+
+📧 javimacias619@gmail.com  
+💼 https://linkedin.com/in/javaguti  
+🐙 https://github.com/SKEIILATT  
+
+---
+
+<div align="center">
+
+### 🧠 Cognitive Engineering Philosophy
+
+*Software is structured logic.*  
+*Data is structured reality.*  
+*Intelligence emerges when both align.*
+
+</div>
