@@ -5,6 +5,7 @@
 # 🧠 Data & AI · Full-Stack Mentor  
 ### Cognitive Systems Engineer  
 
+
 Transforming data into intelligent software and teaching others to build it.  
 Transformando datos en software inteligente y enseñando a otros a construirlo.
 
@@ -17,7 +18,9 @@ Transformando datos en software inteligente y enseñando a otros a construirlo.
 
 <img src="https://komarev.com/ghpvc/?username=SKEIILATT&style=for-the-badge&color=0e75b6"/>
 
+🌐 Portfolio / CV: https://skeiilatt.github.io/CV/
 </div>
+
 
 ---
 
